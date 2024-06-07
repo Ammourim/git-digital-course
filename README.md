@@ -1,2 +1,3 @@
-# git-digital-course
-## mudanças no repositório 2
+# Curso digital: Git
+## git init
+## git status
